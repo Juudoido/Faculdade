@@ -4,7 +4,7 @@
 | completo | família | Geração | SKU Num | Sufixo |
 |:--------:|:-------:|:-------:|:-------:|:------:|
 |i7 6700K| i7 | 6º gen | 700 SKU | K |
-|i7 920HQ| i7 | 6º gen | 920 SKU | HQ |
+|i7 6920HQ| i7 | 6º gen | 920 SKU | HQ |
 
 A intel tá tentando reduzir o nº de caracteres dos processadores porque a partir da 10º geração eles estão ficando mt grandes, então você pode encontrar um i7 1265, onde o 12 é a geranção e o 65 é o SKU.
 
